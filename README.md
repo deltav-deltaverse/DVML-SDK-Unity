@@ -1,4 +1,4 @@
-# deltaverse 3d generation environemnt is made possible by Blockade Labs Unity SDK
+# deltaverse 3d generation environment is made possible by Blockade Labs Unity SDK
 Harnesssing the transformative power of machine learning to incant unique user experience
 
 # Blockade Labs SDK for Unity
